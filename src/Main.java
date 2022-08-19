@@ -4,9 +4,9 @@ public class Main {
 //        int a[]=new int[]{1,2,3,4,5};
 //        System.out.println(a[5]);
 
-//        String s1="jaVatpoint";
-//        System.out.println(s1.substring(2,4));
-//        System.out.println(s1.substring(2));
+        String s1="jaVatpoint";
+        System.out.println(s1.substring(2,4));
+        System.out.println(s1.substring(2));
 
 //        Cricketer cricketer1 = new Cricketer();
 //        Cricketer cricketer2 = new Cricketer();
