@@ -14,12 +14,12 @@ public class Main {
 //        System.out.println(s1.substring(2,4));
 //        System.out.println(s1.substring(2));
 
-//        Cricketer cricketer1 = new Cricketer();
-//        Cricketer cricketer2 = new Cricketer();
-//        Cricketer cricketer3 = new Cricketer();
-//        Cricketer cricketer4 = new Cricketer();
-//
-//        System.out.println(Cricketer.getCount());
+        Cricketer cricketer1 = new Cricketer();
+        Cricketer cricketer2 = new Cricketer();
+        Cricketer cricketer3 = new Cricketer();
+        Cricketer cricketer4 = new Cricketer();
+
+        System.out.println(Cricketer.getCount());
     }
 
     private static void method1a() {
