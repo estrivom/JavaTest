@@ -1,6 +1,12 @@
 public class Main {
 
     public static void main(String[] args) {
+
+        int [] myInteger = SortedArray.getIntegers(6);
+        int [] sorted = SortedArray.sortIntegers(myInteger);
+        SortedArray.printArray(sorted);
+
+
 //        int a[]=new int[]{1,2,3,4,5};
 //        System.out.println(a[5]);
 
