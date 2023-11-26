@@ -6,4 +6,5 @@ models:
     { "module": FWA, "reviewMonth": "APR", "reviewYear": "2023", "reviewName": "Patrick", "reviewDate": "2023-04-29", "reviewPeriod": "APR-2023" },
     { "module": FWA, "reviewMonth": "MAY", "reviewYear": "2023", "reviewName": "Wei Yang", "reviewDate": "2023-05-10", "reviewPeriod": "MAY-2023" },
     { "module": FWA, "reviewMonth": "JUN", "reviewYear": "2023", "reviewName": "Kwan Yen", "reviewDate": "2023-06-14", "reviewPeriod": "JUN-2023" },
-    { "module": FWA, "reviewMonth": "JUL", "reviewYear": "2023", "reviewName": "Ruth Quizon", "reviewDate": "2023-07-30", "reviewPeriod": "JUL-2023" }]
+    { "module": FWA, "reviewMonth": "JUL", "reviewYear": "2023", "reviewName": "Ruth Quizon", "reviewDate": "2023-07-30", "reviewPeriod": "JUL-2023" },
+    { "module": FWA, "reviewMonth": "NOV", "reviewYear": "2023", "reviewName": "Suzainne Estrivo", "reviewDate": "2023-11-03", "reviewPeriod": "NOV-2023" }]
