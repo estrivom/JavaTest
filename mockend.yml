@@ -2,4 +2,4 @@ models:
   Post:
     fake:
       _count: 1
-    data: [{ "module": eTravel, "reviewMonth": "MAR", "reviewYear": "2023", "reviewName": "Johanna Estrivo", "reviewDate": "2023-03-16", "reviewPeriod": "MAR-2023" }]
+    data: [{ "module": FWA, "reviewMonth": "MAR", "reviewYear": "2023", "reviewName": "Sean Brinosa", "reviewDate": "2023-03-26", "reviewPeriod": "MAR-2023" }]
