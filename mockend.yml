@@ -5,6 +5,6 @@ models:
     data: [{ "module": FWA, "reviewMonth": "MAR", "reviewYear": "2023", "reviewName": "Sean Brinosa", "reviewDate": "26-Mar-2023", "reviewPeriod": "MAR-2023" },
     { "module": FWA, "reviewMonth": "APR", "reviewYear": "2023", "reviewName": "Patrick", "reviewDate": "29-Apr-2023", "reviewPeriod": "APR-2023" },
     { "module": FWA, "reviewMonth": "MAY", "reviewYear": "2023", "reviewName": "Wei Yang", "reviewDate": "10-May-2023", "reviewPeriod": "MAY-2023" },
-    { "module": FWA, "reviewMonth": "JUN", "reviewYear": "2023", "reviewName": "Kwan Yen", "reviewDate": "14-Jun-2023", "reviewPeriod": "JUN-2023" },
-    { "module": FWA, "reviewMonth": "JUL", "reviewYear": "2023", "reviewName": "Ruth Quizon", "reviewDate": "30-Jul-2023", "reviewPeriod": "JUL-2023" },
+    { "module": FWA, "reviewMonth": "JUN", "reviewYear": "2023", "reviewName": "Kwan Yen", "reviewDate": "", "reviewPeriod": "JUN-2023" },
+    { "module": FWA, "reviewMonth": "JUL", "reviewYear": "2023", "reviewName": "", "reviewDate": "", "reviewPeriod": "JUL-2023" },
     { "module": FWA, "reviewMonth": "NOV", "reviewYear": "2023", "reviewName": "Suzainne Estrivo", "reviewDate": "03-Nov-2023", "reviewPeriod": "NOV-2023" }]
